@@ -1,15 +1,22 @@
-/* General Reset */
+.parkinsans {
+  font-family: "Parkinsans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
+
+
 body {
     margin: 0;
     font-family: Arial, sans-serif;
-    background-color: black; /* Alice Blue background */
+    background-color: #1469b8; /* Alice Blue background */
     color: #003366; /* Dark blue text */
 }
 
 /* Header Styling */
 h1 {
     text-align: center;
-    color: #002147; /* Navy blue */
+    color: white; /* Navy blue */
     margin: 20px 0;
 }
 
@@ -21,7 +28,7 @@ h2 {
 
 /* Form Container */
 div {
-    background-color: #e6f7ff; /* Light blue */
+    background-color: #aabfff; /* Light blue */
     margin: 20px auto;
     padding: 20px;
     border-radius: 8px;
